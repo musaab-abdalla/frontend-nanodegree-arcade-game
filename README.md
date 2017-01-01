@@ -32,7 +32,9 @@ git clone https//github.com/musaab-abdalla/frontend-nanodegree-arcade-game
 **3.** Open the application:
 
 To start the game, navigate to the `index.html` file in your browser use url:
-`http://localhost/your-folder/index.html`
+```
+http://localhost/your-folder/index.html
+```
 
 ###How to play the game?
 
