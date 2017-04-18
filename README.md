@@ -14,7 +14,7 @@ In this classic arcade game you have a Player and Enemies (Bugs). The goal of th
 
 **Go to** https://musaab-abdalla.github.io/frontend-nanodegree-arcade-game
 
-#Instructions
+# Instructions
 
 ### How to load the game?
 
