@@ -43,7 +43,7 @@ var Player = function(x, y) {
   this.width = 65;
 };
 
-// When player reach the water alert the player and rest the game.
+// When player reach the water alert the player and reset the game.
 Player.prototype.update = function() {
   if (player.y < 0) {
     alert('YOU WIN, CONGRATULATIONS!');
